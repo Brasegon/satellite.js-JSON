@@ -2,6 +2,8 @@
 
 FORK satellite.js
 
+Permet de remplacer les données TLE par des données JSON
+
 [![NPM version](https://img.shields.io/npm/v/satellite.js.svg)](https://www.npmjs.com/package/satellite.js)
 [![Downloads/month](https://img.shields.io/npm/dm/satellite.js.svg)](https://www.npmjs.com/package/satellite.js)
 [![Build Status](https://img.shields.io/travis/shashwatak/satellite-js/develop.svg)](https://travis-ci.org/shashwatak/satellite-js)
